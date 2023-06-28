@@ -49,3 +49,9 @@ The output from the `check_dependencies.py` script is saved in `check_dependenci
 ## Clean Up
 
 After the build process, the script cleans up the Docker container used for building. The Docker image built remains and can be used or distributed as needed.
+
+## TODO
+
+[] Use devenv containers instead of dockerfile
+[] Generalize for other builds
+[] Upgrade to latest nix-packages and devenv versions
