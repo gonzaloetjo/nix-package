@@ -1,0 +1,10 @@
+
+# Devenv
+.devenv*
+devenv.local.nix
+newer/
+older/
+airflow_wheels.tar.gz
+venv.tar.gz
+git-airflow/
+venv/
